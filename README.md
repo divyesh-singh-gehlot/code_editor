@@ -39,7 +39,9 @@ open index.html
 📂 Project Structure
 
 index.html: The main HTML file containing the structure of the editor and output.
+
 style.css: Contains all styling for the code boxes, output, and overall webpage design.
+
 script.js: The JavaScript file responsible for the real-time output and other interactive features.
 
 
