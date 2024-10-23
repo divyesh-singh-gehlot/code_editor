@@ -58,3 +58,5 @@ As you type, the output is updated in real-time to reflect the changes.
 Adding more customizable features like different themes.
 Improving the code editor with syntax highlighting.
 Enhancing the UI/UX with better responsive design.
+
+Author: Divyesh Singh Gehlot
