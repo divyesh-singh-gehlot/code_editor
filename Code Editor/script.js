@@ -7,6 +7,4 @@ function run(){
 
     outPut.contentDocument.body.innerHTML = htmlCode + "<style>" + cssCode + "</style>";
     outPut.contentWindow.eval(jsCode);
-    document.getElementById('output').contentWindow.document.body.style.color='white';
-    document.getElementById('output').contentWindow.document.body.style.color='white';
 }
