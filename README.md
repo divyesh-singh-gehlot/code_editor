@@ -20,13 +20,13 @@ To run the project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/code-editor.git
+git clone https://github.com/divyesh-singh-gehlot/code_editor.git
 
 
 
 Navigate to the project directory:
 
-cd code-editor
+cd code_editor
 
 
 
