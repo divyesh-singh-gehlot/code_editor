@@ -37,7 +37,9 @@ cd "Code Editor"
 Open the index.html file in your browser:
 
 For Windows: start index.html 
+
 For Mac: open index.html 
+
 
 
 
