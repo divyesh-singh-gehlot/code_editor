@@ -28,11 +28,16 @@ Navigate to the project directory:
 
 cd code_editor
 
+Navigate to the project sub-directory:
+
+cd "Code Editor"
+
 
 
 Open the index.html file in your browser:
 
-open index.html
+For Windows: start index.html 
+For Mac: open index.html 
 
 
 
